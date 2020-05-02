@@ -1,0 +1,19 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "API Scaffold with Express and Node.js",
+  "main": "index.js",
+  "author": "Gabriel Antiqueira",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "sucrase": "^3.13.0"
+  }
+}
