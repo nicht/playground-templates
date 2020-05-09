@@ -1,5 +1,5 @@
 ## Playground Templates
-Playground templates is the official repository of the @ nicht / playgrounds project. Here, you can find several templates for the most varied programming languages. Take a look at what we have to offer!
+Playground templates is the official repository of the [@nicht/playground](https://github.com/nicht/playground) project. Here, you can find several templates for the most varied programming languages. Take a look at what we have to offer!
 
 ## Currently Supported Languagues
 We currently have the following languages available with some templates.
