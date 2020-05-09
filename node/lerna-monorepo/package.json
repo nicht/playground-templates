@@ -1,0 +1,21 @@
+{
+  "name": "lerna-monorepo",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "lerna run test",
+    "dev:front": "lerna run dev --scope=@lerna-monorepo/front --stream",
+    "dev:api": "lerna run dev --scope=@lerna-monorepo/api --stream",
+    "bootstrap": "lerna bootstrap"
+  },
+  "keywords": ["lerna", "monorepo", "playground"],
+  "author": {
+    "name": "Rodolfo Olivieri",
+    "email": "rodolfo.olivieri@nicht.rocks"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^3.1.0",
+    "lerna": "^3.19.0"
+  }
+}
